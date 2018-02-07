@@ -1,0 +1,2 @@
+﻿Install-Package AutoMapper
+Install-Package Microsoft.AspNet.WebApi.Cors
